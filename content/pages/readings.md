@@ -68,7 +68,7 @@ READINGS
 
 ### Required Reading
 
-*   Krieger, Alex. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Past Futures: Boston: Visionary Plans and Practical Visions." (PDF - 5.3 MB)](http://www.gsd.harvard.edu/#/projects/past-futures-two-centuries-of-imagining-boston-1.html) _Places_ 5, no. 3 (1989).
+*   Krieger, Alex. ["Past Futures: Boston: Visionary Plans and Practical Visions." (PDF - 5.3 MB)](http://www.gsd.harvard.edu/#/projects/past-futures-two-centuries-of-imagining-boston-1.html) _Places_ 5, no. 3 (1989).
 *   Murray, Hubert. "Paved with Good Intentions: Boston's Central Artery Project and a Failure of City Building." In _Urban Planning Today_. Edited by William S. Saunders. University of Minnesota Press, 2006.
 *   Brady-Myerov, Monica. "[Boston Plans for Near-Term Risk of Rising Tides](http://www.npr.org/2012/08/21/159551828/boston-plans-for-nearterm-risk-of-rising-tides)," _NPR Cities: Urban Life in the 21st Century (radio series)_, August 21, 2012.
 
