@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/24ba415f8502c90e4382237e9626f5e9_PEOPL234.psd
 file_type: image/x-photoshop
+parent_uid: 689664c4-250e-49dd-67b2-90856f8b796a
 resourcetype: Other
 title: PEOPL234.psd
 uid: 24ba415f-8502-c90e-4382-237e9626f5e9
